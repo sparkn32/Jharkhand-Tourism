@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jharkhand.tourism"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/jh2"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.jharkhand.tourism.Splash"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.jharkhand.tourism.MainActivity" />
+        <activity android:name="com.example.jharkhand.tourism.PageChange" />
+        <activity android:name="com.example.jharkhand.tourism.Info1" />
+        <activity android:name="com.example.jharkhand.tourism.Info2" />
+        <activity android:name="com.example.jharkhand.tourism.Info3" />
+        <activity android:name="com.example.jharkhand.tourism.Info4" />
+        <activity android:name="com.example.jharkhand.tourism.Info5" />
+        <activity android:name="com.example.jharkhand.tourism.Info6" />
+        <activity android:name="com.example.jharkhand.tourism.Info7" />
+        <activity android:name="com.example.jharkhand.tourism.Info8" />
+        <activity android:name="com.example.jharkhand.tourism.Info9" />
+        <activity android:name="com.example.jharkhand.tourism.Info10" />
+        <activity android:name="com.example.jharkhand.tourism.Info11" />
+        <activity android:name="com.example.jharkhand.tourism.Info12" />
+        <activity android:name="com.example.jharkhand.tourism.Info13" />
+        <activity android:name="com.example.jharkhand.tourism.Info14" />
+        <activity android:name="com.example.jharkhand.tourism.Info15" />
+        <activity android:name="com.example.jharkhand.tourism.Info16" />
+        <activity android:name="com.example.jharkhand.tourism.Info17" />
+        <activity android:name="com.example.jharkhand.tourism.Info18" />
+        <activity android:name="com.example.jharkhand.tourism.Info19" />
+        <activity android:name="com.example.jharkhand.tourism.Info20" />
+        <activity android:name="com.example.jharkhand.tourism.Feedback" />
+        <activity android:name="com.example.jharkhand.tourism.Gallery1" />
+        <activity android:name="com.example.jharkhand.tourism.Gallery2" />
+        <activity android:name="com.example.jharkhand.tourism.Gallery3" />
+        <activity android:name="com.example.jharkhand.tourism.Gallery4" />
+        <activity android:name="com.example.jharkhand.tourism.Gallery5" />
+        <activity android:name="com.example.jharkhand.tourism.Gallery6" />
+        <activity android:name="com.example.jharkhand.tourism.Map1" />
+        <activity android:name="com.example.jharkhand.tourism.Map2" />
+        <activity android:name="com.example.jharkhand.tourism.Map3" />
+        <activity android:name="com.example.jharkhand.tourism.Map4" />
+        <activity android:name="com.example.jharkhand.tourism.Map5" />
+        <activity android:name="com.example.jharkhand.tourism.Map6" />
+        <activity android:name="com.example.jharkhand.tourism.Map7" />
+        <activity android:name="com.example.jharkhand.tourism.Map8" />
+        <activity android:name="com.example.jharkhand.tourism.Map9" />
+        <activity android:name="com.example.jharkhand.tourism.Map10" />
+        <activity android:name="com.example.jharkhand.tourism.Map11" />
+        <activity android:name="com.example.jharkhand.tourism.Map12" />
+        <activity android:name="com.example.jharkhand.tourism.Map13" />
+        <activity android:name="com.example.jharkhand.tourism.Map14" />
+        <activity android:name="com.example.jharkhand.tourism.Map15" />
+        <activity android:name="com.example.jharkhand.tourism.Map16" />
+        <activity android:name="com.example.jharkhand.tourism.Map17" />
+        <activity android:name="com.example.jharkhand.tourism.Map18" />
+        <activity android:name="com.example.jharkhand.tourism.Map19" />
+        <activity android:name="com.example.jharkhand.tourism.Map20" />
+        <activity android:name="com.example.jharkhand.tourism.Grid1" />
+        <activity android:name="com.example.jharkhand.tourism.List1" />
+        <activity android:name="com.example.jharkhand.tourism.List2" />
+        <activity android:name="com.example.jharkhand.tourism.Tab" />
+        <activity android:name="com.example.jharkhand.tourism.AboutUs" />
+    </application>
+
+</manifest>

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\andro\\Jharkhand Tourism\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\andro\\Jharkhand Tourism\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,6,8,4,7,5,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "19,75,248,364,129,311,181,437",
+                        "endColumns": "54,52,61,71,50,51,65,37",
+                        "endOffsets": "69,123,305,431,175,358,242,470"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,110,163,225,297,348,400,466",
+                        "endColumns": "54,52,61,71,50,51,65,37",
+                        "endOffsets": "105,158,220,292,343,395,461,499"
+                    }
+                },
+                {
+                    "source": "D:\\andro\\Jharkhand Tourism\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "504",
+                        "endColumns": "57",
+                        "endOffsets": "557"
+                    }
+                }
+            ]
+        }
+    ]
+}

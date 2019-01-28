@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon Jan 28 01:03:02 IST 2019
+1.base=D\:\\andro\\Jharkhand Tourism\\app\\build\\intermediates\\assets\\debug
+2.path=fonts/android_7.ttf
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\andro\\Jharkhand Tourism\\app\\build\\intermediates\\assets\\debug
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=fonts/Altoys.ttf
+3.base=D\:\\andro\\Jharkhand Tourism\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.set=ASSET
+0.base=D\:\\andro\\Jharkhand Tourism\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/angelina.ttf

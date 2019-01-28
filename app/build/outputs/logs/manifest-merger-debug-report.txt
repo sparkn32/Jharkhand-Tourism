@@ -1,0 +1,281 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:1-81:12
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:1-81:12
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:1-81:12
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:1-81:12
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:1-81:12
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:1-81:12
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:1-81:12
+	package
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:11:5-79:19
+	android:label
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:12:9-37
+	android:theme
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.jharkhand.tourism.Splash
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:16:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.jharkhand.tourism.MainActivity
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:24:19-47
+activity#com.example.jharkhand.tourism.PageChange
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:25:9-57
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:25:19-45
+activity#com.example.jharkhand.tourism.Info1
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:26:19-40
+activity#com.example.jharkhand.tourism.Info2
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.example.jharkhand.tourism.Info3
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:28:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:28:19-40
+activity#com.example.jharkhand.tourism.Info4
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:29:19-40
+activity#com.example.jharkhand.tourism.Info5
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:30:19-40
+activity#com.example.jharkhand.tourism.Info6
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:31:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:31:19-40
+activity#com.example.jharkhand.tourism.Info7
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:32:19-40
+activity#com.example.jharkhand.tourism.Info8
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:33:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:33:19-40
+activity#com.example.jharkhand.tourism.Info9
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:34:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:34:19-40
+activity#com.example.jharkhand.tourism.Info10
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:35:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:35:19-41
+activity#com.example.jharkhand.tourism.Info11
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:36:19-41
+activity#com.example.jharkhand.tourism.Info12
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:37:19-41
+activity#com.example.jharkhand.tourism.Info13
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:38:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:38:19-41
+activity#com.example.jharkhand.tourism.Info14
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:39:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:39:19-41
+activity#com.example.jharkhand.tourism.Info15
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:40:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:40:19-41
+activity#com.example.jharkhand.tourism.Info16
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:41:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:41:19-41
+activity#com.example.jharkhand.tourism.Info17
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:42:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:42:19-41
+activity#com.example.jharkhand.tourism.Info18
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:43:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:43:19-41
+activity#com.example.jharkhand.tourism.Info19
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:44:19-41
+activity#com.example.jharkhand.tourism.Info20
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:45:9-53
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:45:19-41
+activity#com.example.jharkhand.tourism.Feedback
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:46:9-55
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:46:19-43
+activity#com.example.jharkhand.tourism.Gallery1
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:47:9-55
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:47:19-43
+activity#com.example.jharkhand.tourism.Gallery2
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:48:9-55
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:48:19-43
+activity#com.example.jharkhand.tourism.Gallery3
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:49:9-55
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:49:19-43
+activity#com.example.jharkhand.tourism.Gallery4
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:50:9-55
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:50:19-43
+activity#com.example.jharkhand.tourism.Gallery5
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:51:9-55
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:51:19-43
+activity#com.example.jharkhand.tourism.Gallery6
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:52:9-55
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:52:19-43
+activity#com.example.jharkhand.tourism.Map1
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:53:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:53:19-39
+activity#com.example.jharkhand.tourism.Map2
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:54:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:54:19-39
+activity#com.example.jharkhand.tourism.Map3
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:55:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:55:19-39
+activity#com.example.jharkhand.tourism.Map4
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:56:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:56:19-39
+activity#com.example.jharkhand.tourism.Map5
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:57:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:57:19-39
+activity#com.example.jharkhand.tourism.Map6
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:58:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:58:19-39
+activity#com.example.jharkhand.tourism.Map7
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:59:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:59:19-39
+activity#com.example.jharkhand.tourism.Map8
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:60:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:60:19-39
+activity#com.example.jharkhand.tourism.Map9
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:61:9-51
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:61:19-39
+activity#com.example.jharkhand.tourism.Map10
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:62:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:62:19-40
+activity#com.example.jharkhand.tourism.Map11
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:63:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:63:19-40
+activity#com.example.jharkhand.tourism.Map12
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:64:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:64:19-40
+activity#com.example.jharkhand.tourism.Map13
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:65:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:65:19-40
+activity#com.example.jharkhand.tourism.Map14
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:66:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:66:19-40
+activity#com.example.jharkhand.tourism.Map15
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:67:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:67:19-40
+activity#com.example.jharkhand.tourism.Map16
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:68:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:68:19-40
+activity#com.example.jharkhand.tourism.Map17
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:69:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:69:19-40
+activity#com.example.jharkhand.tourism.Map18
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:70:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:70:19-40
+activity#com.example.jharkhand.tourism.Map19
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:71:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:71:19-40
+activity#com.example.jharkhand.tourism.Map20
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:72:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:72:19-40
+activity#com.example.jharkhand.tourism.Grid1
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:73:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:73:19-40
+activity#com.example.jharkhand.tourism.List1
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:74:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:74:19-40
+activity#com.example.jharkhand.tourism.List2
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:75:9-52
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:75:19-40
+activity#com.example.jharkhand.tourism.Tab
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:76:9-50
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:76:19-38
+activity#com.example.jharkhand.tourism.AboutUs
+ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:77:9-54
+	android:name
+		ADDED from D:\andro\Jharkhand Tourism\app\src\main\AndroidManifest.xml:77:19-42

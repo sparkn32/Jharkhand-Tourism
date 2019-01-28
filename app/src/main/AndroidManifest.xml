@@ -1,0 +1,81 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jharkhand.tourism"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:icon="@drawable/jh2"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".PageChange"></activity>
+        <activity android:name=".Info1"></activity>
+        <activity android:name=".Info2"></activity>
+        <activity android:name=".Info3"></activity>
+        <activity android:name=".Info4"></activity>
+        <activity android:name=".Info5"></activity>
+        <activity android:name=".Info6"></activity>
+        <activity android:name=".Info7"></activity>
+        <activity android:name=".Info8"></activity>
+        <activity android:name=".Info9"></activity>
+        <activity android:name=".Info10"></activity>
+        <activity android:name=".Info11"></activity>
+        <activity android:name=".Info12"></activity>
+        <activity android:name=".Info13"></activity>
+        <activity android:name=".Info14"></activity>
+        <activity android:name=".Info15"></activity>
+        <activity android:name=".Info16"></activity>
+        <activity android:name=".Info17"></activity>
+        <activity android:name=".Info18"></activity>
+        <activity android:name=".Info19"></activity>
+        <activity android:name=".Info20"></activity>
+        <activity android:name=".Feedback"></activity>
+        <activity android:name=".Gallery1"></activity>
+        <activity android:name=".Gallery2"></activity>
+        <activity android:name=".Gallery3"></activity>
+        <activity android:name=".Gallery4"></activity>
+        <activity android:name=".Gallery5"></activity>
+        <activity android:name=".Gallery6"></activity>
+        <activity android:name=".Map1"></activity>
+        <activity android:name=".Map2"></activity>
+        <activity android:name=".Map3"></activity>
+        <activity android:name=".Map4"></activity>
+        <activity android:name=".Map5"></activity>
+        <activity android:name=".Map6"></activity>
+        <activity android:name=".Map7"></activity>
+        <activity android:name=".Map8"></activity>
+        <activity android:name=".Map9"></activity>
+        <activity android:name=".Map10"></activity>
+        <activity android:name=".Map11"></activity>
+        <activity android:name=".Map12"></activity>
+        <activity android:name=".Map13"></activity>
+        <activity android:name=".Map14"></activity>
+        <activity android:name=".Map15"></activity>
+        <activity android:name=".Map16"></activity>
+        <activity android:name=".Map17"></activity>
+        <activity android:name=".Map18"></activity>
+        <activity android:name=".Map19"></activity>
+        <activity android:name=".Map20"></activity>
+        <activity android:name=".Grid1"></activity>
+        <activity android:name=".List1"></activity>
+        <activity android:name=".List2"></activity>
+        <activity android:name=".Tab"></activity>
+        <activity android:name=".AboutUs"></activity>
+        
+    </application>
+
+</manifest>
